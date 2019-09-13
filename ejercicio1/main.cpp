@@ -6,7 +6,7 @@ int main() {
 
 entero base=0, entero altura=0;
 cout << "\ningrese la base:";
-cin >> base;
+cin >> basie;
 cout << "\ningrese la altura:";
 cin >> altura;
 
