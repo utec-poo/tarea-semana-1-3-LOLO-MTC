@@ -9,9 +9,7 @@ cout << "\ningrese la base:";
 cin >> base;
 cout << "\ningrese la altura:";
 cin >> altura;
-
-
-// ToDO
+cout << (altura * base)/2;
 
   return 0;
 }
